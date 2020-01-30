@@ -1,21 +1,7 @@
-# MIMICv2 - business message prototyping
+# MIMICv2 - common machine components
 
-## Scaffold
-
-https://gitlab.com/kobededecker/vue-pwa-example
-
-
-## Project setup
+## Objective
 ```
-yarn install
+npm install `a conversation`
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
